@@ -17,8 +17,9 @@ const developer = {
     name: "Tabassum sumaiya",
     location: "Dhaka Bangladesh 🌍",
     currentFocus: "Building cool stuff with code",
-    learning: ["JS", "React", "Python", "MySQL"],
-    hobbies: ["Coding", "Coffee", "Creating"]
+    learning: ["JS", "React", "Python", "MySQL","R"],
+    hobbies: ["Coding", "Coffee", "Creating"],
+    Research Interest:["spatial omics", "bioinformatics" ]
 };
 ```
 
