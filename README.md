@@ -85,15 +85,15 @@ const developer = {
 <div align="center">
 
 <a href="https://github.com/pawpaw64/Earn-n-Learn-V1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pawpaw64&repo=Earn-n-Learn-V1&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Earn-n-Learn-V1" />
+  <img src="https://imgur.com/kuGaTNu" alt="Earn-n-Learn-V1" />
 </a>
 
 <a href="https://github.com/pawpaw64/crime-reporting-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pawpaw64&repo=crime-reporting-system&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Crime Reporting System" />
+  <img src="https://imgur.com/a/CkjE4IO" alt="Crime Reporting System" />
 </a>
 
-<a href="https://github.com/pawpaw64/Coffee-Cup">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pawpaw64&repo=Coffee-Cup&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Coffee Cup" />
+<a href="https://github.com/pawpaw64/withlove-by-TS-studio">
+  <img src="https://imgur.com/a/LR6Lmut" alt="withlove-by-TS-studio" />
 </a>
 
 </div>
