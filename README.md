@@ -63,9 +63,6 @@ But not everything I make runs on a screen. I'm also an entrepreneur and macram√
 
 
 
----
-
-
 
 ---
 
@@ -77,21 +74,7 @@ But not everything I make runs on a screen. I'm also an entrepreneur and macram√
 | [**Crime Reporting System**](https://github.com/pawpaw64/crime-reporting-system) | Civic tech app for community safety reporting | `MySQL` `Node.js` |
 | [**withlove by TS studio**](https://github.com/pawpaw64/withlove-by-TS-studio) | Creative studio portfolio & showcase | `HTML` `CSS` `JS` |
 
-</div>
 
-### üêç Contribution Snake
-
-<div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pawpaw64/pawpaw64/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pawpaw64/pawpaw64/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pawpaw64/pawpaw64/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7C6FD4&height=100&section=footer" width="100%" alt="footer" />
 
