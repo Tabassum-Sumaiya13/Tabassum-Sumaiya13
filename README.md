@@ -72,7 +72,7 @@ But not everything I make runs on a screen. I'm also an entrepreneur and macram√
 |---------|-------------|-------|
 | [**Earn-n-Learn V1**](https://github.com/pawpaw64/Earn-n-Learn-V1) | Educational platform connecting learning with earning | `JS` `React` |
 | [**Crime Reporting System**](https://github.com/pawpaw64/crime-reporting-system) | Civic tech app for community safety reporting | `MySQL` `Node.js` |
-| [**withlove by TS studio**](https://github.com/pawpaw64/withlove-by-TS-studio) | Creative studio portfolio & showcase | `HTML` `CSS` `JS` |
+| [**withlove by TS studio**](https://withlove-by-ts-studio.vercel.app/) | Creative studio portfolio & showcase | `HTML` `CSS` `JS` |
 
 
 
