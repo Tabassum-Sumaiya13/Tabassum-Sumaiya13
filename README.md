@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=F5EDED&text=Tabassum%20Sumaiya&fontColor=6482AD&stroke=001&desc=Software%20Dev%20%|%20Artist%20|%20%20Researcher&fontSize=70&strokeWidth=-1&descSize=0&descAlignY=65" alt="header" width="100%" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=F5EDED&text=Tabassum%20Sumaiya&fontColor=6482AD&stroke=001&desc=Software%20Dev%20%|%20Artist%20|%20%20Researcher&fontSize=70&strokeWidth=-1&descSize=0&descAlignY=65" alt="header" width="100%" /> -->
 
 </div>
 
@@ -13,7 +13,6 @@ But not everything I make runs on a screen. I'm also an entrepreneur and macram�
 ### 🌐 Find me around the web
  
 - 💼 Sharing updates on [**LinkedIn**](https://www.linkedin.com/in/tabassum-sumaiya-951b91254/)
-- 🐙 Building Works on [**Sumaiya.Page**](https://sumaiya.page)
 - 📬 Reach me at [**tsum64@gmail.com**](mailto:tsum64@gmail.com)
 
 ---
