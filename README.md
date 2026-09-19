@@ -14,6 +14,7 @@ But not everything I make runs on a screen. I'm also an entrepreneur and macram�
  
 - 💼 Sharing updates on [**LinkedIn**](https://www.linkedin.com/in/tabassum-sumaiya-951b91254/)
 - 📬 Reach me at [**tsum64@gmail.com**](mailto:tsum64@gmail.com)
+- 📜 See my Journey [**portfolio**](https://tabassum-sumaiya13.github.io/portfolio/)
 
 ---
 
